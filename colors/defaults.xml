@@ -2,12 +2,12 @@
 <colors>
     <!-- Main -->
     <color name="main_fg_100">ffededed</color>
-    <color name="main_fg_90">e7ededed</color>
+    <color name="main_fg_90">f0ededed</color>
     <color name="main_fg_70">dcededed</color>
-    <color name="main_fg_50">80ededed</color>
-    <color name="main_fg_30">4dededed</color>
-    <color name="main_fg_12">1fededed</color>
-    <color name="main_fg_06">0fededed</color>
+    <color name="main_fg_50">b4ededed</color>
+    <color name="main_fg_30">82ededed</color>
+    <color name="main_fg_12">46ededed</color>
+    <color name="main_fg_06">1eededed</color>
 
     <color name="main_bg_100">ff000000</color>
     <color name="main_bg_90">e7000000</color>
