@@ -1,4 +1,4 @@
-<addon id="skin.arctic.fuse.3" name="Arctic Fuse 3" provider-name="jurialmunkey with edits" version="3.5.4.1">
+<addon id="skin.arctic.fuse.3" name="Arctic Fuse 3" provider-name="jurialmunkey with edits" version="3.5.4.5">
     <requires>
         <import addon="xbmc.gui" version="5.18.0" />
 
